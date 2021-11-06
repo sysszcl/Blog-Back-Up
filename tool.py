@@ -12,10 +12,10 @@ from ImageProcess import Graphics
 # SIZE_more_small = 2.0
 # SIZE_more_small_small = 3.0
 
-SIZE_normal = 1.0
-SIZE_small = 1.0
-SIZE_more_small = 1.0
-SIZE_more_small_small = 1.0
+SIZE_normal = 2.0
+SIZE_small = 2.0
+SIZE_more_small = 2.0
+SIZE_more_small_small = 2.0
 
 
 def make_directory(directory):
